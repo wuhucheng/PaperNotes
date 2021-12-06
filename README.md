@@ -6,3 +6,5 @@ Relevant records of papers read
 2.《PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation》论文链接：<https://arxiv.org/pdf/2103.06564v1.pdf>
 
 3.《SIPSA-Net: Shift-Invariant Pan Sharpening with Moving Object Alignment forSatellite Imagery》论文链接：<https://arxiv.org/abs/2105.02400>
+
+4.《Panoptic Feature Pyramid Networks》论文链接：<https://arxiv.org/pdf/1901.02446.pdf>
